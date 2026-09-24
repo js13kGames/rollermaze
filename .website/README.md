@@ -1,4 +1,7 @@
 ---
+genres:
+  - puzzle
+  - arcade
 directors_cut: https://picosonic.github.io/js13k-2024/
 post: https://github.com/picosonic/js13k-2024/blob/main/devdiary/diary.md
 # See github.com/js13kGames/hello-world for supported frontmatter
